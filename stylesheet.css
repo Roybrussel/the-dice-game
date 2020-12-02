@@ -1,0 +1,55 @@
+/**********************SELECTOR STYLE**********************/
+
+body {
+  background: #3b5998;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
+
+h1 {
+  color: #f7f7f7;
+}
+
+h3 {
+  color: #f7f7f7;
+}
+
+p {
+  color: #f7f7f7;
+}
+
+/**********************CLASS STYLE**********************/
+
+.container-top {
+  width: 636px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.container-row {
+  width: 636px;
+  height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+}
+
+.dices {
+  font-size: 700%;
+  color: #ffffff;
+}
+
+.dice-btn {
+  margin-top: 25px;
+}
+
+.container-footer {
+
+}
+
+
+/**********************ID STYLE**********************/
